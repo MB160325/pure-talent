@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120">
+  <defs>
+    <linearGradient id="brand" x1="18" y1="102" x2="126" y2="-4" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5d351f"/>
+      <stop offset=".5" stop-color="#b8834f"/>
+      <stop offset="1" stop-color="#f1d4a5"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="120" rx="20" fill="#1d1713"/>
+  <circle cx="60" cy="60" r="36" fill="url(#brand)"/>
+  <path d="M49 81V38h24c13 0 22 8 22 19 0 12-9 20-23 20H61v4H49Zm12-16h11c6 0 10-3 10-8s-4-8-10-8H61v16Z" fill="#fff7ec"/>
+  <text x="118" y="56" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#fff7ec">PureTalent</text>
+  <text x="119" y="82" font-family="Arial, sans-serif" font-size="15" fill="#d9b88a">Manpower Supply</text>
+</svg>
